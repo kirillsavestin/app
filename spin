@@ -1,4 +1,4 @@
 {
-"loadvalue":"https://bestgameigrasoft.space/NDMy1TXH",
-"check":""
+  "loadvalue":"https://bestgameigrasoft.space/NDMy1TXH",
+  "check":""
 }
